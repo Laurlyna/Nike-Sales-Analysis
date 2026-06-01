@@ -11,5 +11,5 @@ Analysis of Nike sales data using SQL and Excel to uncover revenue trends, profi
 ## Files
 nike_sales_analysis.sql — Data cleaning and Exploratory Data Analysis
 ## Dashboard Preview
-![Nike Dashboard](Nike_dashboard.png)
+![Nike-sales Dashboard](Nike-sales_dashboard.png)
 
