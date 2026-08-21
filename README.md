@@ -39,5 +39,5 @@ Analysis of Nike sales data using SQL and Excel to uncover revenue trends, profi
 
 ## Dashboard Preview
 
-![nike_sales_performance_dashboard](nike-sales_performance_dashboard.png)
+![nike_sales_performance_dashboard](nike_sales_performance_dashboard.png)
 
